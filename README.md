@@ -23,10 +23,10 @@ The site is live at [https://syedmaaz20.github.io/JavaScript-Programming-Essenti
 
 ## Installation and Usage
 
-1. Clone the repository: '''git clone https://github.com/syedmaaz20/JavaScript-Programming-Essentials-IBM-Travel-Recommendations.github.io.git
+1. Clone the repository: ``` git clone https://github.com/syedmaaz20/JavaScript-Programming-Essentials-IBM-Travel-Recommendations.github.io.git```
  
 2. Navigate to the project directory:
-''' cd JavaScript-Programming-Essentials-IBM-Travel-Recommendations.github.io '''
+``` cd JavaScript-Programming-Essentials-IBM-Travel-Recommendations.github.io ```
 
 3. Open `index.html` in your web browser to view the Home page.
 
